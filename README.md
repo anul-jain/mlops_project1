@@ -1,1 +1,1 @@
-# mlops_project1
+Mlops project , in which integrating #machinelearning and #deeperlearning models with #jenkins to automate the task of developer , if the accuracy of the machine learning or deep learning model is not satisfactory then it will automatically add layers and change epoch to reach the required accuracy . This automation is done using jenkins.
